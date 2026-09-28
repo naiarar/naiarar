@@ -7,7 +7,7 @@ Desenvolvedora full stack em Balneário Camboriú (SC). Hoje trabalho com **Type
 - **2022**: Comecei a programar no **Instruct the Women**, programa de formação para mulheres em tecnologia. Primeiros projetos em Python.
 - **2022–2023**: Mergulhei em **Django** e **Angular**. Construí aplicações completas, de renderização server-side a SPA com rotas lazy-loaded ([Empresta-](https://github.com/naiarar/Empresta-), [Ecommerce](https://github.com/naiarar/Ecommerce)).
 - **2023–2024**: Passei a trabalhar com projetos full stack com API REST, autenticação JWT, Docker e PostgreSQL ([FanCar](https://github.com/naiarar/FanCar), [Pet4lov](https://github.com/naiarar/Pet4lov)).
-- **Hoje**: Sou dev na **Verzel** atuo no projeto **[Arbolink](https://github.com/Arbolink)**, atuando em painel web, back-end relacional, serverless e aplicativos de campo. Trabalho com PR revisado, Jira e Definition of Done no dia a dia.
+- **Hoje**: Sou dev na **Verzel**, alocada no projeto **[Arbolink](https://github.com/Arbolink)**, atuo em painel web, back-end relacional, serverless e aplicativos de campo. Trabalho com PR revisado, Jira e Definition of Done no dia a dia.
 - **Em paralelo**: Desenvolvo produtos próprios, como uma plataforma de membros com biblioteca botânica digital e um SaaS multitenant de gestão de frota.
 
 ## Stack
